@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinService", "WinService\WinService.csproj", "{B3E09984-6DDA-4116-9D6D-69BC0A8BD383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E09984-6DDA-4116-9D6D-69BC0A8BD383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E09984-6DDA-4116-9D6D-69BC0A8BD383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E09984-6DDA-4116-9D6D-69BC0A8BD383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E09984-6DDA-4116-9D6D-69BC0A8BD383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
